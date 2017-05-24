@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Design1</string>
+    <string name="order_3_rs_270">ORDER 3 Rs.270</string>
+    <string name="order_2_rs_270">ORDER 2 Rs.270</string>
+    <string name="order_1_rs_50">ORDER 1 Rs.50</string>
+    <string name="orders_completed_extras">ORDERS COMPLETED EXTRAS</string>
+    <string name="drive2success"><![CDATA[< Drive2success]]></string>
+</resources>
